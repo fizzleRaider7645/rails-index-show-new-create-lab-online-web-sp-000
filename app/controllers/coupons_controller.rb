@@ -1,2 +1,2 @@
-class CouponsController
+class CouponsController < ActiveRecord::Base
 end
