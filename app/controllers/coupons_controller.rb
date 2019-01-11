@@ -10,6 +10,6 @@ class CouponsController < ApplicationController
   end
   
   def new
-    @coupon
+    binding.pry
   end
 end
